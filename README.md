@@ -37,6 +37,16 @@ This project presents an interactive **Retail Sales Dashboard** developed using 
 - 🔍 **Interactive Filtering** – Real-time visual filtering with slicers
 
 ---
+## 💡 Insights and Conclusions
+
+- Strong overall sales performance with over $1M in total sales
+- Consumer preference for low-fat products, indicating health-conscious buying habits
+- Fruits, vegetables, and snack foods are the top-selling categories
+- Medium-sized outlets in Tier 3 locations show the highest profitability
+- Supermarkets generate higher sales volumes, while grocery stores have better item visibility
+
+---
+
 
 ## 🧰 Tools Used
 
