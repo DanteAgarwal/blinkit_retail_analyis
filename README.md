@@ -2,6 +2,8 @@
 
 This project presents an interactive **Retail Sales Dashboard** developed using **Power BI**, enabling deep insights into sales, profit, regional performance, and product trends. It is designed to assist stakeholders in identifying growth opportunities and performance bottlenecks across multiple dimensions.
 
+![Dashboard Preview](Retail-Dashboard.png)
+
 ---
 
 ## 🎯 Objectives
