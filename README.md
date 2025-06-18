@@ -64,4 +64,4 @@ This project presents an interactive **Retail Sales Dashboard** developed using 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iamvikasgupta164/Retail-Data-Analysis-Dashboard.git
+   git clone https://github.com/DanteAgarwal/blinkit_retail_analyis.git
